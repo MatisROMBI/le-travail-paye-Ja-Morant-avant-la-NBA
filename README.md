@@ -7,9 +7,6 @@ Et le travail pays !
 Mais lorsqu'il est enfin arrivé à entrer en NBA, il a malheureusement fait des erreurs qui l'ont conduit à être suspendu pendant un certain temps.
 Mais après tout ces mois passés sans jouer, il recommence enfin à fouler le parquet !
 
-
-[[https://github.com/MatisROMBI/travailR104/blob/main/JaMorantReadme.jpg|frame|JaMorantReadme.jpg]]
-
 ![ JaMorantReadme.jpg](https://github.com/MatisROMBI/travailR104/blob/main/JaMorantReadme.jpg)
 
 Si vous voulez en savoir plus n'hésitez pas à consulter notre wiki pour en découvrir plus sur Ja Morant !
