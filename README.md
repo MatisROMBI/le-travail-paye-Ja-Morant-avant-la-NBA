@@ -1,7 +1,7 @@
 ## L'histoire de Ja Morant
 
 ###Dans ce wiki vous trouverez l'histoire de Ja Morant, 
-###un joueur de Basket qui a eu des débuts compliqués pour arriver en NBA malgrès son talent et ses capacités hors du commun.
+un joueur de Basket qui a eu des débuts compliqués pour arriver en NBA malgrès son talent et ses capacités hors du commun.
 
 ###Mais ce n'est pas tombé du ciel. Pour cela il a travaillé dur et s'est entrainé pendant des années avec son père.
 ###Et le travail paye! 
