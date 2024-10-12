@@ -11,4 +11,4 @@ Mais après tout ces mois passés sans jouer, il recommence enfin à fouler le p
 
 ![ JaMorantReadme.jpg](https://github.com/MatisROMBI/travailR104/blob/main/JaMorantReadme.jpg)
 
-Si vous voulez en savoir plus n'hésitez pas à consulter notre wiki pour en découvrir plus sur Ja Morant !
+Si vous voulez en savoir plus, n'hésitez pas à consulter notre wiki pour en découvrir plus sur Ja Morant !
